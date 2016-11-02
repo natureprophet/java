@@ -1,0 +1,11 @@
+concesionaria\repository\ConcesionariaRepository.class
+concesionaria\repository\MarcaRepository.class
+concesionaria\services\ConcesionariaServices.class
+concesionaria\Application.class
+concesionaria\controller\ConcesionariaController.class
+concesionaria\config\GlobalDefaultHandler.class
+concesionaria\config\StatusCodeException.class
+concesionaria\models\Marca.class
+concesionaria\utils\TestUtils.class
+concesionaria\dto\ConcesionariaDTO.class
+concesionaria\models\Concesionaria.class
